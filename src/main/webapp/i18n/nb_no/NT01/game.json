@@ -1,0 +1,133 @@
+{
+    "version": "1-28-2025-5:27PM-default-default-RD",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nei",
+        "confirm": "Ønsker du lyder?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "er {@minRTP}%",
+        "RTPrange": "er fra {@minRTP}% til {@maxRTP}%",
+        "paybackTitle": "Forventet tilbakebetaling",
+        "paybackBody": "For dette spillet er den teoretiske, langsiktig forventede gevinstandelen {RTP}.",
+        "subheading": "Pris: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "description": "Description",
+        "prizeValue": "Premieverdi",
+        "overallChances": "Det er en samlet sjanse på 1 til {odds} for å vinne en premie i hver runde.",
+        "prizeDivision": "Premieinndeling",
+        "prizeRemaining": "Omtrentlige gjenværende premier",
+        "oddsPerPlay": "Odds per spill",
+        "descriptions":
+        {
+            "happy": "Yellow",
+            "lovey": "Pink",
+            "shocked": "Blue",
+            "angry": "Red",
+            "puke": "Green",
+            "iw1": "Instant Win 1",
+            "iw2": "Instant Win 2",
+            "iw3": "Instant Win 3"
+        },
+        "buttonClose": "X"
+    },
+    "title": "Emoti Collect",
+    "MenuCommand":
+    {
+        "price": "Pris",
+        "stake": "Innsats",
+        "howToPlay": "Hjelp",
+        "payTable": "Premieoversikt",
+        "close": "Lukk",
+        "audio":
+        {
+            "sound": "Lyd",
+            "on": "På",
+            "off": "Av"
+        }
+    },
+    "payTableHelp":
+    {
+        "buttonClose": "X",
+        "prizeLevel": "Gevinstnivå",
+        "prizeValue": "Gevinstverdi",
+        "paytableWager": "Brettkostnad:"
+    },
+    "ui":
+    {
+        "balance": "Saldo:",
+        "wager": "Brettkostnad:",
+        "wager_main": "BRETTKOSTNAD",
+        "demo": "PRØV",
+        "wins": "Gevinst:",
+        "demoWins": "Demogevinst:",
+        "buy": "KJØP",
+        "try": "PRØV",
+        "autoPlay":
+        {
+            "WLA":
+            {
+                "revealAll": "AUTOSPILL",
+                "revealAllStop": "STOPP AUTOSPILL"
+            },
+            "Commercial":
+            {
+                "revealAll": "AVDEKKE ALLE",
+                "revealAllStop": "STOPP AVDEKKING"
+            }
+        },
+        "exit": "LUKK",
+        "playForMoney": "GÅ OVER TIL PENGER",
+        "play_one": "START",
+        "buy_again": "SPILL PÅ NYTT",
+        "try_again": "PRØV IGJEN",
+        "help_close": "OK",
+        "result_close": "OK",
+        "retry": "GJENTA",
+        "meter_division": "|"
+    },
+    "help":
+    {
+        "title": "HVORDAN SPILLE",
+        "portrait":
+        {
+            "text_1": "Bruk SPINN for å samle inn uttrykksikoner eller en stjerne.Fyll en måler med uttrykksikoner for å vinne en gevinst.",
+            "text_2": "Finn et gratisspinn for å tjene et ekstra spinn.",
+            "text_3": "Treff en stjerne for å velge et umiddelbart gevinstkort og få en umiddelbar gevinst!"
+        },
+        "landscape":
+        {
+            "text_1": "Bruk SPINN for å samle inn uttrykksikoner eller en stjerne.Fyll en måler med uttrykksikoner for å vinne en gevinst.",
+            "text_2": "Finn et gratisspinn for å tjene et ekstra spinn.",
+            "text_3": "Treff en stjerne for å velge et umiddelbart gevinstkort og få en umiddelbar gevinst!"
+        }
+    },
+    "paytable":
+    {
+        "separator": "/",
+        "win": "GEVINST"
+    },
+    "game":
+    {
+        "freeSpinAwarded": "GRATISSPINN",
+        "instantWin": "Umiddelbar gevinst",
+        "spinsLeft": "Spinn gjenstår",
+        "instantWinCard": "UMIDDELBAR GEVINST",
+        "winUpTo": "VINN OPPTIL",
+        "pickACard": "VELG ET UMIDDELBART GEVINSTKORT!",
+        "winUpToExclamation": "!"
+    },
+    "result":
+    {
+        "congratulations": "GRATULERER!",
+        "thanksForPlaying": "TAKK FOR AT DU SPILTE!",
+        "winText": "Du vant",
+        "demoWinText": "Du kunne ha vunnet",
+        "loseText": "BEDRE LYKKE NESTE GANG",
+        "prizeSuffix_buy": "",
+        "prizeSuffix_try": ""
+    },
+    "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}
